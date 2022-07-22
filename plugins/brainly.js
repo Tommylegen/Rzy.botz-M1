@@ -13,5 +13,6 @@ handler.help = ['brainly <teks>']
 handler.tags = ['edukasi']
 handler.command = /^brainly$/i
 handler.register = true
+handler.premium = true
 
 module.exports = handler
