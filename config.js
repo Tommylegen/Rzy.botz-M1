@@ -3,7 +3,7 @@
 
 
 let fs = require('fs')
-global.owner = ['62895635773387',' 62895410735736'] // Letakan nomor kamu disini
+global.owner = ['6289505054287',' 62895410735736'] // Letakan nomor kamu disini
 global.APIs = { // API Prefix
   // nama: 'https://website'
   hardianto: 'https://hardianto-chan.herokuapp.com',
@@ -40,8 +40,8 @@ global.APIKeys = { // APIKey nya disini
 }
 
 // Sticker WM
-global.packname = 'Raja-Xzy'
-global.author = 'Rxzy-Bot'
+global.packname = 'Wa 6289505054287'
+global.author = 'Raja Dev'
 
 global.wait = '「 ⏱️ 」Harap tunggu sebentar...'
 global.eror = '「❗」Server ERROR!'
@@ -50,7 +50,7 @@ global.watermark = '©Rzy-botz' //change the watermark
 global.image = 'https://telegra.ph/file/1a3eac3701775793618b3.jpg' //change the image
 global.thumbfoto = 'https://telegra.ph/file/ae6f7f701a5be2951648f.jpg'
 
-global.multiplier = 9999999 // Semakin tinggi, semakin sulit naik level
+global.multiplier = 999 // Semakin tinggi, semakin sulit naik level
 
 let chalk = require('chalk')
 let file = require.resolve(__filename)
